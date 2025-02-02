@@ -1,6 +1,6 @@
 # Contoso University
 
-Contoso University is an ASP.NET Core MVC web application designed to manage information related to a fictional university. The application allows users to perform operations such as student admissions, course creation, and instructor assignments, using Entity Framework Core for data access and following the Code First approach. The application uses SQL Server as its database.
+Contoso University is an ASP.NET Core MVC web application tutorial designed to manage information related to a fictional university. The application allows users to perform operations such as student admissions, course creation, and instructor assignments, using Entity Framework Core for data access and following the Code First approach. The application uses SQL Server as its database.
 
 ## Features
 - **CRUD Operations:** Add, delete, update, and read information about students, courses, and instructors.
